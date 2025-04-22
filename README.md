@@ -1,6 +1,6 @@
 You should install colorama and pywifi
 before installation you should create virtual environmet
-follo this code:
+follow this code:
 
 python3 -m venv venv 
 
